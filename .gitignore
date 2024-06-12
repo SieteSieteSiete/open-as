@@ -1,5 +1,8 @@
 debug/
 target/
+TVEmulator/
+
+burner.txt
 
 Cargo.lock
 
