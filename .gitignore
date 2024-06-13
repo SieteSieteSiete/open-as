@@ -13,3 +13,5 @@ Cargo.lock
 .rustfmt.toml
 
 .DS_Store
+
+.env

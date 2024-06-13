@@ -4,6 +4,10 @@ I'd like to use Redis as my database system for catagorizing the media library
 
 ### Commands
 
+To setup enviornemnt:
+
+`pip install -r requirements.txt`
+
 To run redis stack, use command:
 
 `docker run -d --name redis-stack -p 6379:6379 -p 8001:8001 redis/redis-stack:latest`
