@@ -19,3 +19,9 @@ Combining these commands yields:
 To access cli from docker container, use:
 
 `docker exec -it TVDatabase redis-cli`
+
+# Weird Stuff
+
+On Mac, activating a venv needs . (same as `source`), as in:
+
+`. TVEmulatorPython/bin/activate`
