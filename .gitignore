@@ -2,7 +2,7 @@ debug/
 target/
 TVEmulatorPython/
 
-burner.txt
+burner.*
 
 Cargo.lock
 
